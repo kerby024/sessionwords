@@ -1,0 +1,9 @@
+*{
+margin: 0px;
+}
+
+.Sides{
+display: inline-block;
+width: 400px;
+vertical-align: top;
+}
